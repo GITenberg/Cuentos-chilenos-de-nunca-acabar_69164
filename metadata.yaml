@@ -1,0 +1,31 @@
+_repo: Cuentos-chilenos-de-nunca-acabar_69164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laval, Ramón A. (Ramón Arminio)
+    aliases:
+    - Laval, Ramon A. (Ramon Arminio)
+    - Alvear, Ramón Arminio Laval
+    birthdate: 1862
+    deathdate: 1929
+    gutenberg_agent_id: '52438'
+    url: http://www.gutenberg.org/2009/agents/52438
+    wikipedia: https://es.wikipedia.org/wiki/Ram%C3%B3n_Laval_Alvial
+description: ''
+gutenberg_issued: '2022-10-16'
+identifiers:
+  gutenberg: '69164'
+language: es
+pgterms:marc905: 20190810083641laval
+pgterms:marc906: '1910'
+pgterms:marc907: CL
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: 'Chile: Imprenta Cervantes,1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Cuentos chilenos de nunca acabar
+url: http://www.gutenberg.org/ebooks/69164
