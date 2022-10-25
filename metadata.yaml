@@ -1,5 +1,8 @@
 _repo: Cuentos-chilenos-de-nunca-acabar_69164
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69164-h/images/cover.jpg
 creator:
   author:
     agent_name: Laval, Ramón A. (Ramón Arminio)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52438
     wikipedia: https://es.wikipedia.org/wiki/Ram%C3%B3n_Laval_Alvial
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69164#Cuentos-chilenos-de-nunca-acabar
 gutenberg_issued: '2022-10-16'
 identifiers:
   gutenberg: '69164'
